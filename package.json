@@ -1,0 +1,20 @@
+{
+  "name": "joelwallis",
+  "version": "1.0.0",
+  "description": "npx joelwallis",
+  "author": "Joel Wallis Jucá <joelwallis@gmail.com>",
+  "repository": "joelwallis/node-joelwallis",
+  "homepage": "https://github.com/joelwallis",
+  "bugs": "https://github.com/joelwallis/node-joelwallis/issues",
+  "license": "ISC",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "bin": {
+    "joelwallis": "index.js"
+  },
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
